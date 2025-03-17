@@ -1,0 +1,22 @@
+[
+  {
+    "story_id": "story1",
+    "story_title": "Test Story 1",
+    "intervention_id": "int1",
+    "text": "Consider how the character feels in this situation.",
+    "type": "suggestion",
+    "helpfulness": "\ud83d\udc4d Helpful",
+    "comment": "Good suggestion",
+    "timestamp": "2023-01-01T12:00:00"
+  },
+  {
+    "story_id": "story2",
+    "story_title": "Test Story 2",
+    "intervention_id": "int3",
+    "text": "This part of the story introduces a key theme.",
+    "type": "information",
+    "helpfulness": "\ud83d\udc4e Not Helpful",
+    "comment": "Could be more specific",
+    "timestamp": "2023-01-02T14:30:00"
+  }
+]

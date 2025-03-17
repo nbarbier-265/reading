@@ -1,0 +1,5 @@
+story_id,skill_id,parent_score,child_score,method,parent_explanation,child_explanation
+story1,skill1,0.82,0.89,embedding,The story relates strongly to this parent skill.,The story demonstrates this specific skill.
+story1,skill2,0.75,0.81,embedding,The story somewhat relates to this parent skill.,The story somewhat demonstrates this specific skill.
+story2,skill1,0.79,0.85,embedding,The story relates moderately to this parent skill.,The story moderately demonstrates this specific skill.
+story2,skill3,0.88,0.92,embedding,The story relates very strongly to this parent skill.,The story clearly demonstrates this specific skill.

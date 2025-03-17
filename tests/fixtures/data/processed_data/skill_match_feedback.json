@@ -1,0 +1,24 @@
+[
+  {
+    "story_id": "story1",
+    "story_title": "Test Story 1",
+    "skill_id": "skill1",
+    "parent_score": 0.82,
+    "child_score": 0.89,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "Good match",
+    "method": "embedding",
+    "timestamp": "2023-01-01T12:30:00"
+  },
+  {
+    "story_id": "story2",
+    "story_title": "Test Story 2",
+    "skill_id": "skill3",
+    "parent_score": 0.88,
+    "child_score": 0.92,
+    "accuracy": "\ud83d\udc4e Not Accurate",
+    "comment": "Not a good match",
+    "method": "embedding",
+    "timestamp": "2023-01-02T15:00:00"
+  }
+]

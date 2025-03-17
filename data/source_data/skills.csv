@@ -1,0 +1,69 @@
+skill_id,description
+language.communication,Understands that language can be used to communicate.
+measurement.measurement_concepts,Knows about measurement.
+patterns.math_patterns,Knows about math patterns.
+personal_finance.money,Knows about money.
+plants.adaptations_traits,Knows about plant adaptations and traits. 
+plants.life_cycle,Knows about the plant life cycle.
+animals.animal_classification,Knows about animal classification.
+animals.animal_habits,Knows about animal habitats.
+animals.adaptations_traits,Knows about animal adaptations.
+animals.animal_life_cycle,Knows about the animal life cycle.
+animals.animal_behaviors,Knows about animal behaviors and diets. 
+animals.anatomy_characteristics,Knows about animal anatomy and characteristics.
+humans.body_systems,Knows about human body systems.
+humans.five_senses,Knows about the five senses.
+humans.behaviors,Knows about human behaviors. 
+humans.families_needs,Knows about human families and basic human needs. 
+ecosystem.environment,Knows about environment.
+ecosystem.interactions,Knows about ecosystem interactions.
+ecosystem.living_nonliving,Knows about living vs. non-living organisms
+matter.properties_of_matter,Knows about properties of matter.
+forces.force_motion,Knows about force and motion.
+forces.gravity,Knows about gravity.
+energy.thermal_energy,Knows about thermal energy.
+energy.electrical_energy,Knows about electrical energy.
+energy.light_energy,Knows about light energy.
+energy.sound_energy,Knows about sound energy.
+space.solar_system,Knows about the solar system.
+space.sun,Knows about the sun.
+earth_systems.weather_climate,Knows about weather and climate.
+earth_systems.impact_on_humans,Understands how the movement of earth's systems impacts humans. 
+earth_systems.conservation,Knows about conservation. 
+geology.landforms,Knows about landforms
+natural_resources.renewable_resources,Knows about renewable resources. 
+natural_resources.nonrenewable_resources,Knows about nonrenewable resources.
+community.roles_responsibilities,Knows about community roles and responsibilities. 
+community.transportation,Knows about transportation.
+community.shared_spaces,Knows about shared spaces in a community.
+community.social_aspects,Knows about language and communication used within a community
+community.structures_architecture,Knows about structures and architecture.
+agriculture.farm_ranch_life,Knows about farm and ranch life.
+culture_traditions.holidays,Knows about holidays.
+culture_traditions.historical_figures,Knows about historical figures. 
+culture_traditions.stories_folktales,Knows about stories and folktales.
+culture_traditions.culture_traditions,Knows about culture and traditions.
+government.rules_laws,Knows about rules and laws.
+government.leadership_elections_voting,"""Knows about leadership, elections, and voting."""
+government.rights_freedoms,Knows about rights and freedoms. 
+technology_innovation.inventions_discoveries,Knows about inventions and discoveries.
+technology_innovation.space_exploration,Knows about space exploration and technology.
+technology_innovation.communication_technology,Knows about communication technology.
+ancient_history.early_civilizations,Knows about early civilizations.
+world_history.wars_battles,Knows about wars and battles
+state_history.all,Knows about local and state history. 
+colonial_america.all,Knows about colonial America.
+american_revolution.all,Knows about the American Revolution. 
+modern_america.all,Knows about Modern America.
+physical_geography.all,Knows about physical geography.
+physical_geography.landforms,Knows about landforms. 
+physical_geography.regions,Knows about regions.
+visual_arts.drawing_illustration,Knows about drawing and illustration.
+visual_arts.painting,Knows about painting.
+visual_arts.art_history,Knows about art history.
+performing_arts.drama,Knows about drama.
+healthy_habits.physical_activity,Knows about physical activity.
+healthy_habits.mental_emotional,Knows about mental and emotional health.
+digital_literacy.internet_basics,Knows about internet basics.
+digital_literacy.responsibility_safety,Knows about digital responsibility.
+digital_literacy.media_literacy,Knows about media literacy.

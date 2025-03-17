@@ -1,0 +1,134 @@
+[
+  {
+    "story_id": "story1",
+    "story_title": "The Adventures of Tom Sawyer",
+    "skill_id": "skill1",
+    "parent_score": 0.85,
+    "child_score": 0.92,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "This story definitely demonstrates metacognitive skills.",
+    "method": "embedding",
+    "timestamp": "2023-01-01T12:30:00"
+  },
+  {
+    "story_id": "story1",
+    "story_title": "The Adventures of Tom Sawyer",
+    "skill_id": "skill2",
+    "parent_score": 0.76,
+    "child_score": 0.82,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "Good match for vocabulary development.",
+    "method": "embedding",
+    "timestamp": "2023-01-01T12:35:00"
+  },
+  {
+    "story_id": "story1",
+    "story_title": "The Adventures of Tom Sawyer",
+    "skill_id": "skill3",
+    "parent_score": 0.64,
+    "child_score": 0.68,
+    "accuracy": "\ud83e\udd14 Unsure",
+    "comment": "I'm not certain that this story strongly promotes this skill.",
+    "method": "embedding",
+    "timestamp": "2023-01-01T12:40:00"
+  },
+  {
+    "story_id": "story2",
+    "story_title": "To Kill a Mockingbird",
+    "skill_id": "skill3",
+    "parent_score": 0.91,
+    "child_score": 0.95,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "Perfect match for inference skills. This book requires students to read between the lines.",
+    "method": "embedding",
+    "timestamp": "2023-01-02T15:00:00"
+  },
+  {
+    "story_id": "story2",
+    "story_title": "To Kill a Mockingbird",
+    "skill_id": "skill4",
+    "parent_score": 0.88,
+    "child_score": 0.87,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "",
+    "method": "embedding",
+    "timestamp": "2023-01-02T15:05:00"
+  },
+  {
+    "story_id": "story3",
+    "story_title": "The Great Gatsby",
+    "skill_id": "skill4",
+    "parent_score": 0.93,
+    "child_score": 0.96,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "This novel is excellent for teaching literary elements.",
+    "method": "embedding",
+    "timestamp": "2023-01-03T09:45:00"
+  },
+  {
+    "story_id": "story3",
+    "story_title": "The Great Gatsby",
+    "skill_id": "skill1",
+    "parent_score": 0.72,
+    "child_score": 0.65,
+    "accuracy": "\ud83d\udc4e Not Accurate",
+    "comment": "This skill doesn't seem to align well with this text.",
+    "method": "embedding",
+    "timestamp": "2023-01-03T09:50:00"
+  },
+  {
+    "story_id": "story4",
+    "story_title": "Charlotte's Web",
+    "skill_id": "skill5",
+    "parent_score": 0.89,
+    "child_score": 0.94,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "This book is perfect for teaching themes, especially friendship and sacrifice.",
+    "method": "embedding",
+    "timestamp": "2023-01-04T11:30:00"
+  },
+  {
+    "story_id": "story4",
+    "story_title": "Charlotte's Web",
+    "skill_id": "skill2",
+    "parent_score": 0.74,
+    "child_score": 0.79,
+    "accuracy": "\ud83d\udc4e Not Accurate",
+    "comment": "While there are vocabulary opportunities, they're not as strong as the system suggests.",
+    "method": "embedding",
+    "timestamp": "2023-01-04T11:35:00"
+  },
+  {
+    "story_id": "story5",
+    "story_title": "The Giver",
+    "skill_id": "skill6",
+    "parent_score": 0.95,
+    "child_score": 0.97,
+    "accuracy": "\ud83d\udc4d Accurate",
+    "comment": "Excellent match for critical thinking skills.",
+    "method": "embedding",
+    "timestamp": "2023-01-05T10:00:00"
+  },
+  {
+    "story_id": "story1",
+    "story_title": "Test Story 1",
+    "skill_id": "skill1",
+    "parent_score": 0.82,
+    "child_score": 0.89,
+    "accuracy": "\ud83d\udc4d Helpful",
+    "comment": "Test comment",
+    "method": "embedding",
+    "timestamp": "2025-03-16T13:49:59.853267"
+  },
+  {
+    "story_id": "story1",
+    "story_title": "Test Story 1",
+    "skill_id": "skill2",
+    "parent_score": 0.75,
+    "child_score": 0.78,
+    "accuracy": "\ud83d\udc4d Helpful",
+    "comment": "Test comment",
+    "method": "embedding",
+    "timestamp": "2025-03-16T13:49:59.853772"
+  }
+]

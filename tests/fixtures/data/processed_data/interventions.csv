@@ -1,0 +1,5 @@
+story_id,intervention_id,sentence_id,text,type,score
+story1,int1,0,Consider how the character feels in this situation.,suggestion,0.85
+story1,int2,2,What do you think happens next in the story?,question,0.92
+story2,int3,0,This part of the story introduces a key theme.,information,0.78
+story2,int4,1,How would you describe the character's motivation?,question,0.88

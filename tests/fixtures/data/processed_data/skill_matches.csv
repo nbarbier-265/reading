@@ -1,0 +1,5 @@
+story_id,skill_id,skill_name,parent_skill,parent_score,child_score,method
+story1,skill1,Critical Thinking,Cognitive Skills,0.82,0.89,embedding
+story1,skill2,Emotional Intelligence,Social-Emotional Skills,0.75,0.81,embedding
+story2,skill1,Critical Thinking,Cognitive Skills,0.79,0.85,embedding
+story2,skill3,Creative Problem Solving,Cognitive Skills,0.88,0.92,embedding

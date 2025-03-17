@@ -1,0 +1,28 @@
+[
+  {
+    "story_id": "sample-1-48f9-4fac-a11e-8b6a055655bb",
+    "story_title": "Dune Dwellers (Part One)",
+    "intervention_id": "sample-1-48f9-4fac-a11e-8b6a055655bb_animals.adaptations_traits_0",
+    "sentence": "Desert foxes thrive in harsh desert environments, where temperatures soar during daylight hours and plummet after sunset.",
+    "skill_id": "animals.adaptations_traits",
+    "intervention_type": "metacognitive",
+    "intervention": "What specific adaptations do desert foxes have to thrive in harsh desert environments? How do these adaptations help them survive the extreme temperature changes?",
+    "feedback": "positive",
+    "comment": "",
+    "fit_agreement": "Not specified",
+    "timestamp": "2025-03-16T18:21:39.362720"
+  },
+  {
+    "story_id": "sample-1-48f9-4fac-a11e-8b6a055655bb",
+    "story_title": "Dune Dwellers (Part One)",
+    "intervention_id": "sample-1-48f9-4fac-a11e-8b6a055655bb_animals.adaptations_traits_1",
+    "sentence": "Their fur is pale and sandy-colored, blending perfectly with their surroundings.",
+    "skill_id": "animals.adaptations_traits",
+    "intervention_type": "conceptual",
+    "intervention": "How does the color of the desert foxes' fur help them survive in their environment? Why is blending in with the surroundings important for their survival?",
+    "feedback": "positive",
+    "comment": "",
+    "fit_agreement": "Not specified",
+    "timestamp": "2025-03-16T18:21:44.857059"
+  }
+]

@@ -1,0 +1,5 @@
+story_id,skill_id,sentence,intervention_type,intervention,explanation,score
+story1,skill1,It contains multiple sentences.,metacognitive,Consider how the character feels in this situation.,This intervention helps readers understand the character's emotions.,0.85
+story1,skill2,Each sentence can be processed separately.,conceptual,What do you think happens next in the story?,This intervention encourages prediction skills.,0.92
+story2,skill1,It has fewer sentences but is still useful for testing.,vocabulary,This part of the story introduces a key theme.,This intervention helps identify themes in the story.,0.78
+story2,skill3,This is the second test story.,question,How would you describe the character's motivation?,This intervention focuses on character analysis.,0.88

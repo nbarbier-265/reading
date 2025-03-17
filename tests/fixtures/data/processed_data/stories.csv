@@ -1,0 +1,4 @@
+story_id,title,story_text
+story1,Test Story 1,This is the first test story. It contains multiple sentences. Each sentence can be processed separately.
+story2,Test Story 2,This is the second test story. It has fewer sentences but is still useful for testing.
+story3,Test Story 3,This is the third test story with some content for testing.
