@@ -6,7 +6,7 @@ Documentation provided inside the streamlit app.
 
 ## Setup
 
-1. Run the setup script (assumes MacOS and homebrew), which setups up python, your virtual env, and installs dependencies, processes the data and starts the app:
+1. Run the setup script (dependencies: MacOS and homebrew), which setups up python, your virtual env, and installs dependencies, processes the data and starts the app:
   ```
   sh setup_reprocess_examples.sh
   ```
