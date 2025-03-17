@@ -17,16 +17,3 @@ This project analyzes stories and matches them to relevant skills using LLM-base
    OPENAI_API_KEY=your_api_key_here
    OPEN_AI_MODEL=your_model_here
    ```
-
-## Usage
-
-Run the script to match stories to skills:
-
-By default, the script processes a limited number of stories for testing. You can modify the `limit` parameter in the `main()` function to process more stories.
-
-## Input Data
-
-
-## Customization
-
-You can customize the script by:
