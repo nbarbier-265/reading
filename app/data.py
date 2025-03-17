@@ -15,7 +15,7 @@ import os
 from models import InterventionFeedback, SkillMatchFeedback
 from pathlib import Path
 
-from config import PATH_TO_PROCESSED_DATA, PATH_TO_SOURCE_DATA, get_processed_data_path
+from app.config import PATH_TO_PROCESSED_DATA, PATH_TO_SOURCE_DATA, get_processed_data_path
 
 
 @st.cache_data

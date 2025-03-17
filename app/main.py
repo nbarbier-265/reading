@@ -15,7 +15,7 @@ from ui.skill_match import render_skill_match_page
 from ui.processing import render_process_stories
 from ui.feedback import render_feedback_analytics
 from ui.report_summary import render_report_summary
-from config import PATH_TO_PROMPTS
+from app.config import PATH_TO_PROMPTS
 
 
 def main() -> None:

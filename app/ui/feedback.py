@@ -11,8 +11,9 @@ from pathlib import Path
 import os
 import re
 from typing import Dict, List, Any
+import altair as alt
 
-from config import get_processed_data_path
+from app.config import get_processed_data_path
 
 
 def clean_rating_field(df, field_name):
